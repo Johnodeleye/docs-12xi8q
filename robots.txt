@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-e52byh.mon-saas.com/sitemap.xml
